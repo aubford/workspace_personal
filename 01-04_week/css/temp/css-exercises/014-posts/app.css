@@ -1,0 +1,50 @@
+body {
+  box-sizing: border-box;
+  background: #222;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+.services {
+  position: relative;
+  bottom: 0;
+  height: 100px;
+  width: 100%;
+  margin: 0 auto;
+  background: gray;
+  overflow:hidden;
+  float: left;
+}
+
+.service {
+  float: left;
+  width: 50%;
+  height: 100px;
+}
+
+.posts {
+  float:left;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: sans-serif;
+  line-height: 1.5;
+  overflow: auto;
+}
+
+.post {
+  padding-bottom: 40px;
+  font-size: 1.2rem;
+}
+
+.post-title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+/* Code Under This Line */

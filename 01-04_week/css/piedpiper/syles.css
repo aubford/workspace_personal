@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial Rounded MT Bold, sans-serif;
+}
+
+header {
+  width: 100%;
+  padding: 3%;
+}
+
+nav {
+  float: left;
+  width: 20%;
+  margin: 3%;
+  height: 500px;
+  border: 1px solid black;
+  padding: 1%;
+}
+
+.item {
+  margin: 3% 5%;
+  margin-bottom: 25%;
+}
+
+main {
+  float: left;
+  width: 68%;
+  margin-top: 3%;
+}
+
+main p {
+  margin-top: 20px;
+}
+
+.product {
+  float: left;
+  width: 20%;
+  border: 1px solid black;
+  height: 175px;
+  margin-top: 8%;
+  margin-right: 4%;
+
+}
+
+.pnm {
+  margin-left: 5%;
+  margin-top: 2%;
+}
+
+.box {
+  border: 1px solid black;
+  height: 50%;
+  width: 50%;
+  margin: 25%;
+  margin-top: 10%;
+}

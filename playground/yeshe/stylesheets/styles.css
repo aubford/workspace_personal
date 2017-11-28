@@ -1,0 +1,10 @@
+p {
+  background: rgb(0,126,159);
+  font-size: 50px;
+}
+
+.dimensions {
+  height: 50px;
+  width: 50px;
+  background: #db4437;
+}

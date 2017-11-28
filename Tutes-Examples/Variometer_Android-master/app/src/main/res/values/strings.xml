@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Variometer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Flying_Place">Flying place:</string>
+    <string name="Flying_Date">Flying date:</string>
+    <string name="Button_Query">Get result</string>
+    <string name="No_Connection_Title">Connection error</string>
+    <string name="No_Connection_Msg">The application can operate only with internet connection.\nPlease connect to the internet and restart the application!</string>
+    <string name="Server">Web service\n(e.g. http://csaba.ablonczy.eu/Service.svc):</string>
+    <string name="Set_Server">Web service settings</string>
+    <string name="Ws_failure_title">Web service error</string>
+    <string name="Ws_failure">The web service is not responding.\nPlease check the address setting!</string>
+    <string name="Ws_nodata">There are no data that meet the criteria</string>
+    <string name="title_activity_chart">Flying altitude</string>
+    <string name="Xtitle_activity_chart">Date/Time</string>
+    <string name="Ytitle_activity_chart">Altitude</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Beállítások</string>
+    <string name="Flying_Place">Repülés helye:</string>
+    <string name="Flying_Date">Repülés dátuma:</string>
+    <string name="Button_Query">Lekérdez</string>
+    <string name="No_Connection_Title">Hálózati hiba</string>
+    <string name="No_Connection_Msg">Az alkalmazás műkodéséhez internet kapcsolat szükséges.\n
+    Kérem, kapcsolódjon az internethez, majd indítsa újra az alkalmazást!</string>
+    <string name="Server">Web szolgáltaás\n(pl. http://csaba.ablonczy.eu/Service.svc):</string>
+    <string name="Set_Server">Web szolgáltatás beállításai</string>
+    <string name="Ws_failure_title">Web szolgáltatási hiba</string>
+    <string name="Ws_failure">A web szolgáltatás nem válaszol.\nKérem, ellenőrizze a cím beállítást!</string>
+    <string name="Ws_nodata">Nincs a feltételeknek megfelelő adat</string>
+    <string name="title_activity_chart">Repülési magasság</string>
+    <string name="Xtitle_activity_chart">Dátum/Idő</string>
+    <string name="Ytitle_activity_chart">Magasság</string>
+</resources>

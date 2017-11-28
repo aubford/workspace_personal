@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/xml/searchable.xml",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/xml/searchable.xml"
+    }
+]

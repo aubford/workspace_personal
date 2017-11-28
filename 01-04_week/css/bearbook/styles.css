@@ -1,0 +1,60 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial Rounded MT Bold, sans-serif;
+}
+
+header {
+  font-size: 35px;
+  width: 100%;
+  padding-top: 15px;
+  padding-left: 2%;
+  height: 75px;
+}
+
+.tank {
+
+  margin: 40px 0;
+  margin-left: 2%;
+  width: 85%;
+  height: 150px;
+  border: 1px solid black;
+}
+
+.boxhold{
+  width: 28%;
+  height: 100%;
+  padding-top: 10px;
+  float: left;
+}
+
+.box{
+  width: 120px;
+  height: 120px;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.rawr {
+  height:100px;
+  width: 72%;
+  float: left;
+  padding-top: 15px;
+  font-size: 25px;
+}
+
+p {
+  float: left;
+  margin-right: 5%;
+}
+
+.checkbox {
+
+  width: 30px;
+  margin-right: 5px;
+  height: 30px;
+  border: 1px solid black;
+  float: left;
+
+}

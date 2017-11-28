@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.one {
+  background-color: red;
+  height: 40vh;
+  width: 40vw;
+  margin-left: 20vw;
+  float: left;
+}
+
+div div {
+  background-color: orange;
+  height: 10vh;
+  width: 10vw;
+  margin-top: 5%;
+  margin-left: 5%;
+  float:left;
+
+}
+
+p {
+  margin-left:10%;
+}

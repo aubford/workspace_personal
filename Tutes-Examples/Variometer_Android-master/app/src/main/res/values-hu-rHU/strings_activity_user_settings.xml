@@ -1,0 +1,11 @@
+<resources>
+    <string name="title_activity_user_settings">Beállítások</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">Általános</string>
+
+    <string name="pref_title_set_server">Web szolgáltatás címe</string>
+    <string name="pref_description_set_server">pl. http://csaba.ablonczy.eu/Service.svc</string>
+</resources>

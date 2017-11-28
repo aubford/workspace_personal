@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/aubreyford/workspace/jaavario/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_notify_paraglider.png",
+        "source": "/Users/aubreyford/workspace/jaavario/app/src/main/res/drawable-xxhdpi/ic_notify_paraglider.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/jaavario/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher_paraglider.png",
+        "source": "/Users/aubreyford/workspace/jaavario/app/src/main/res/drawable-xxhdpi/ic_launcher_paraglider.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/jaavario/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_action_stop.png",
+        "source": "/Users/aubreyford/workspace/jaavario/app/src/main/res/drawable-xxhdpi/ic_action_stop.png"
+    }
+]

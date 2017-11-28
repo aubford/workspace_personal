@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/raw/tone_750mhz.wav",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/raw/tone_750mhz.wav"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/raw/sink_tone500mhz.ogg",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/raw/sink_tone500mhz.ogg"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/raw/tone_600mhz.ogg",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/raw/tone_600mhz.ogg"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/raw/tone_1000mhz.ogg",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/raw/tone_1000mhz.ogg"
+    }
+]

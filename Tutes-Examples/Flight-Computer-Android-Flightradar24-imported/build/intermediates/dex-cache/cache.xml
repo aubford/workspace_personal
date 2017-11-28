@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/libs/jmustache-1.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="309ea9ec27f921c960737759969c36388d59ccdc">
+        <dex dex="/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/pre-dexed/debug/jmustache-1.5_db311093344530a397eaec1c7f2e73dca59c0643.jar" />
+    </item>
+    <item
+        jar="/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/libs/nutiteq-3d-sdk-2.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8be0d89ef0d85d60ad222d7407a49701de23c306">
+        <dex dex="/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/pre-dexed/debug/nutiteq-3d-sdk-2.2.1_b76e30e6490121ed8e7af31d45086813d0c8ad31.jar" />
+    </item>
+    <item
+        jar="/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_71f7335231d34b9b101e62ad5cdce0b6dc8c0ab6.jar" />
+    </item>
+    <item
+        jar="/Users/aubreyford/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_654cf86ed7bccd995caa7b3566eec010551e2723.jar" />
+    </item>
+    <item
+        jar="/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_7c8851e8acb23f5741462bc9a2fa2407b6703086.jar" />
+    </item>
+    <item
+        jar="/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/libs/javaproj-noawt-1.0.7.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e25b81f102a80f9ac08a4c1b0261837986356b99">
+        <dex dex="/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/pre-dexed/debug/javaproj-noawt-1.0.7_5ed80841b266a60d7cc01f1084d77ad2a194fb1b.jar" />
+    </item>
+    <item
+        jar="/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/libs/mapsforge-map-0.3.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b820da2afb3e070d67f9df433bca5ff9b508e123">
+        <dex dex="/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/pre-dexed/debug/mapsforge-map-0.3.0-jar-with-dependencies_c5fe3a467b96434aa6ea66567ebc5c56238ea872.jar" />
+    </item>
+
+</items>

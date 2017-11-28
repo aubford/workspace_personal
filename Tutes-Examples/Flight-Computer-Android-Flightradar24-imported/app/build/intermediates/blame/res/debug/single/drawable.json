@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/soundon.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/soundon.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/settings.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/settings.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/altimeter_needle_100.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/altimeter_needle_100.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/satellite_icon.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/satellite_icon.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/variometerblack.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/variometerblack.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/line.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/line.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/plane.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/plane.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/altimeter_needle_10000.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/altimeter_needle_10000.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/file_picker_folder.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/file_picker_folder.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/background_plane.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/background_plane.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/textshape.xml",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/textshape.xml"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/custom_btn_genoa.xml",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/custom_btn_genoa.xml"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/file_picker_file.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/file_picker_file.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/ic_menu_archive.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/ic_menu_archive.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/airplanered.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/airplanered.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/altimeter_pressure_dial.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/altimeter_pressure_dial.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/textshapecoord.xml",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/textshapecoord.xml"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/custom_btn_orange.xml",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/custom_btn_orange.xml"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/gps.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/gps.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/marker.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/marker.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/textshapetrack.xml",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/textshapetrack.xml"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/clear.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/clear.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/plastic.jpg",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/plastic.jpg"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/sky_small.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/sky_small.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/igc.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/igc.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/point.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/point.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/altimeter_shaft_cap.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/altimeter_shaft_cap.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/reddot.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/reddot.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/variometer.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/variometer.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/file_picker_back.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/file_picker_back.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/altimeter_needle_1000.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/altimeter_needle_1000.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/filledtextshape.xml",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/filledtextshape.xml"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/soundoff.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/soundoff.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/altimeter_face.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/altimeter_face.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/satellite_icon_off.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/satellite_icon_off.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/exit.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/exit.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/enablegps.xml",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/enablegps.xml"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/airplane.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/airplane.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/compass_rose.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/compass_rose.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/enablesound.xml",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/enablesound.xml"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/map_icon.png",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/map_icon.png"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/enablevario.xml",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/enablevario.xml"
+    },
+    {
+        "merged": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/build/intermediates/res/merged/debug/drawable/textshapegalt.xml",
+        "source": "/Users/aubreyford/workspace/Tutes-Examples/Flight-Computer-Android-Flightradar24-imported/app/src/main/res/drawable/textshapegalt.xml"
+    }
+]

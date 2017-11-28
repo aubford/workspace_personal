@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html ng-app="aubrey">
+  <head>
+    <meta charset="utf-8">
+    <title>Electricians</title>
+    <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.0-rc.2/angular.js' ></script>
+    <script type="text/javascript" src="index.js"></script>
+  </head>
+  <body>
+    <div ng-controller = "MyController">
+      <input type="text" ng-model="mirror" placeholder='Enter your name:'>
+      <p>
+        {{mirror}}
+      </p>
+    </div>
+
+    <div ng-controller="SecondGuy">
+      <p>
+        {{mirror}}
+      </p>
+    </div>
+
+
+
+    <div ng-controller = "MyController">
+
+      <p>
+        Search for a contractor:
+        <input type="text" ng-model="searchable">
+      </p>
+
+      <form ng-submit="getContractor()">
+        <input type="text" ng-model="name" placeholder="name" ng-show="show">
+        <input type="text" ng-model="rate" placeholder="rate" ng-show="show">
+        <input type="submit" value={{msg}}>
+      </form>
+      <hr>
+
+      <div ng-repeat="contractor in contractors | filter:searchable">
+        <p>{{contractor.name}}</p>
+        <p>{{contractor.rate | currency}}</p>
+        <div ng-if="contractor.rate > 99">
+          This rate is high
+        </div>
+        <div ng-show="contractor.rate >199">
+          Like whoa.
+        </div>
+      </div>
+      <hr>
+    </div>
+
+  </body>
+</html>
